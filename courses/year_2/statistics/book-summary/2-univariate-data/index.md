@@ -79,9 +79,9 @@ $$\sum_i \frac{x_i \cdot w_i}{\sum_j w_j}$$
 
     Below we see examples of *unimodal* and *bimodal* data, respectively:
 
-    ![2%20Univariate%20data%205a41bf18a5ee48f5a4f54710a97189c1/Untitled.png](2%20Univariate%20data%205a41bf18a5ee48f5a4f54710a97189c1/Untitled.png)
+    ![unimodal example](unimodal.png)
 
-    ![2%20Univariate%20data%205a41bf18a5ee48f5a4f54710a97189c1/Untitled%201.png](2%20Univariate%20data%205a41bf18a5ee48f5a4f54710a97189c1/Untitled%201.png)
+    ![bimodal example](bimodal.png)
 
 ### Visualization
 

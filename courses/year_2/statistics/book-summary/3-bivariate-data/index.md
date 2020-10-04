@@ -15,13 +15,13 @@ Independence refers to the fact that the existence or knowledge of a sample does
 
 A numeric summary of how closely related two measurements are. Perfect correlation and a plot of the two variables would follow a line, no correlation means they do not.
 
-![3%20Bivariate%20data%206dd433ca361f4bf7910e0e3fb6c11e8e/Untitled.png](3%20Bivariate%20data%206dd433ca361f4bf7910e0e3fb6c11e8e/Untitled.png)
+![correlation](correlation.png)
 
 Correlation can also be calculated over summarized data, in which case the correlation values will tend to be higher than on the raw data.
 
 - **Covariance**: quantifies the difference between points scattered in the four quadrants around the means as origin, versus the points scattered in just two opposing quadrants.
 
-    ![3%20Bivariate%20data%206dd433ca361f4bf7910e0e3fb6c11e8e/Untitled%201.png](3%20Bivariate%20data%206dd433ca361f4bf7910e0e3fb6c11e8e/Untitled%201.png)
+    ![covariance](covariance.png)
 
     The covariance formula is
 
