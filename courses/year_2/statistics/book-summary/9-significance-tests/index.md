@@ -13,7 +13,7 @@ A significance test is an alternative form of statistical inference form confide
 
     The smaller the value, the more likely it is that $H_0$ is false. A small value is called *statistically significant*.
 
-    ![9%20Significance%20tests%2080d1373570344eafae4e26599dfc79fa/Untitled.png](9%20Significance%20tests%2080d1373570344eafae4e26599dfc79fa/Untitled.png)
+    ![p-values significance table](table.png)
 
     Levels of significance for ranges of p-values
 
